@@ -1,3 +1,5 @@
+import $ from 'jquery';
+import cuid from 'cuid';
 import shoppingList from './shopping-list.js';
 
 const main = function () {
