@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-leopard/webpack-day-Darian-Ron/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-leopard/webpack-day-Darian-Ron#readme"
+  "homepage": "https://github.com/thinkful-ei-leopard/webpack-day-Darian-Ron#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
